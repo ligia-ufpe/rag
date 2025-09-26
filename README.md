@@ -113,6 +113,7 @@ splits = splitter.split_documents(docs)
 vectorstore = FAISS.from_documents(splits, embeddings)
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
+```
 🔎 Recuperação e resposta
 ```
 def responder_pergunta(pergunta: str) -> str:
