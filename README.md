@@ -2,7 +2,8 @@
 
 Este projeto implementa um sistema de **RAG (Retrieval-Augmented Generation)** utilizando [LangChain](https://www.langchain.com/), **FAISS** para indexação vetorial, **embeddings do Hugging Face** e **modelos LLM via OpenRouter**.  
 
-O objetivo é responder perguntas de forma contextualizada com base em um PDF de receitas de bolos.
+O objetivo é responder perguntas de forma contextualizada com base em um documento PDF.  
+Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, servindo como exemplo de aplicação prática.
 
 ---
 
