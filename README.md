@@ -7,7 +7,7 @@ Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, s
 
 ---
 
-![Interface do projeto](https://raw.githubusercontent.com/usuario/repositorio/main/assets/screenshot.png)
+![Interface do Projeto](https://raw.githubusercontent.com/ligia-ufpe/repositorio/main/assets/imagem.png)
 
 ## ⚙️ Funcionalidades
 
