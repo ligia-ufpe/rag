@@ -89,11 +89,7 @@ OPENROUTER_API_KEY=sk-or-xxxxxxxxxxxxxxxxxxxxxxxx
 
 6. Execute a aplicação
 
-Se estiver usando apenas o núcleo RAG:
-```
-python rag.py
-```
-Se tiver interface Streamlit:
+Rode interface Streamlit:
 ```
 streamlit run app.py
 ```
