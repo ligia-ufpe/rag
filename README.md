@@ -15,7 +15,7 @@ Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, s
 
 - 📂 **Carregamento de documentos** no formato PDF.  
 - ✂️ **Divisão inteligente** do texto em *chunks* com sobreposição para manter o contexto.  
-- 🧩 **Geração de embeddings vetoriais** utilizando modelos da Hugging Face.  
+- 🧩 **Geração de embeddings vetoriais** utilizando modelos do Hugging Face.  
 - 🔎 **Indexação com FAISS** para busca semântica rápida e eficiente.  
 - 🤖 **Integração com modelos LLM** via OpenRouter.  
 - ✅ **Respostas sempre baseadas no documento fornecido**, evitando alucinações.  
