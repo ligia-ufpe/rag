@@ -7,6 +7,8 @@ Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, s
 
 ---
 
+![Interface do projeto](https://raw.githubusercontent.com/usuario/repositorio/main/assets/screenshot.png)
+
 ## ⚙️ Funcionalidades
 
 - 📂 **Carregamento de documentos** no formato PDF.  
