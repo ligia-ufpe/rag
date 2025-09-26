@@ -126,7 +126,7 @@ def responder_pergunta(pergunta: str) -> str:
 
 ⸻
 
-##📚 Tecnologias Utilizadas
+## 📚 Tecnologias Utilizadas
 - **LangChain** – Orquestração do fluxo RAG.  
 - **FAISS** – Indexação e busca vetorial semântica.  
 - **Hugging Face Sentence Transformers** – Criação de embeddings.  
@@ -136,7 +136,7 @@ def responder_pergunta(pergunta: str) -> str:
 
 ---
 
-##💡 Observações
+## 💡 Observações
 - As respostas são sempre extraídas do **PDF fornecido**.  
 - Caso a pergunta não esteja relacionada ao documento, o modelo responde educadamente que não pode responder.  
 - O modelo padrão é **mistralai/mistral-7b-instruct:free**, mas pode ser substituído por outros disponíveis no catálogo do **OpenRouter**.  
