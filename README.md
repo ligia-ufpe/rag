@@ -19,11 +19,11 @@ Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, s
 
 ## 📂 Estrutura do Projeto
 ```
-├── app.py              # Interface com Streamlit (se usada)
+├── app.py              # Interface com Streamlit
 ├── rag.py              # Núcleo do RAG: carregamento, indexação e resposta
 ├── receitas_bolos.pdf  # Documento de referência
 ├── requirements.txt    # Dependências do projeto
-└── README.md           # Este arquivo
+└── README.md           
 ```
 ---
 
