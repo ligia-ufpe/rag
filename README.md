@@ -102,10 +102,11 @@ streamlit run app.py
 
 ⸻
 
-🧠 Principais Componentes
+# 🧠 Principais Componentes
 
-🔑 Carregamento e indexação do PDF
+## 🔑 Carregamento e indexação do PDF
 ![Interface do Projeto](https://raw.githubusercontent.com/ligia-ufpe/rag/main/split.png)
+
 ```
 loader = PyMuPDFLoader("receitas_bolos.pdf")
 docs = loader.load()
@@ -117,7 +118,7 @@ vectorstore = FAISS.from_documents(splits, embeddings)
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 ```
-🔎 Recuperação e resposta
+## 🔎 Recuperação e resposta
 ![Interface do Projeto](https://raw.githubusercontent.com/ligia-ufpe/rag/main/retrieve.png)
 ```
 def responder_pergunta(pergunta: str) -> str:
