@@ -7,14 +7,13 @@ O objetivo é responder perguntas de forma contextualizada com base em um PDF de
 ---
 
 ## ⚙️ Funcionalidades
-```
-- Carregamento de documentos em **PDF**.
-- Divisão inteligente do texto em chunks com sobreposição para melhor contexto.
-- Criação de embeddings vetoriais usando **Hugging Face**.
-- Indexação com **FAISS** para busca semântica eficiente.
-- Consulta a modelos LLM através do **OpenRouter**.
-- Respostas **somente com base no documento fornecido**, sem alucinação.
-```
+
+- 📂 **Carregamento de documentos** no formato PDF.  
+- ✂️ **Divisão inteligente** do texto em *chunks* com sobreposição para manter o contexto.  
+- 🧩 **Geração de embeddings vetoriais** utilizando modelos da Hugging Face.  
+- 🔎 **Indexação com FAISS** para busca semântica rápida e eficiente.  
+- 🤖 **Integração com modelos LLM** via OpenRouter.  
+- ✅ **Respostas sempre baseadas no documento fornecido**, evitando alucinações.  
 ---
 
 ## 📂 Estrutura do Projeto
