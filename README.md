@@ -140,6 +140,7 @@ def responder_pergunta(pergunta: str) -> str:
 - As respostas são sempre extraídas do **PDF fornecido**.  
 - Caso a pergunta não esteja relacionada ao documento, o modelo responde educadamente que não pode responder.  
 - O modelo padrão é **mistralai/mistral-7b-instruct:free**, mas pode ser substituído por outros disponíveis no catálogo do **OpenRouter**.  
+
 ⸻
 
 **Autor:** [Gabriel W. A. Matias](https://www.linkedin.com/in/gabriel-w-a-matias-a9913a210/)
