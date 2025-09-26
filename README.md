@@ -88,7 +88,7 @@ Crie um arquivo .env na raiz do projeto:
 ```
 OPENROUTER_API_KEY=sk-or-xxxxxxxxxxxxxxxxxxxxxxxx
 ```
-
+⚠️ Lembre-se de criar a chave no [OpenRouter](https://openrouter.ai/). É gratuito, ótimo para testes rápidos.
 ⸻
 
 6. Execute a aplicação
