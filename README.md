@@ -34,7 +34,6 @@ Para demonstração, foi utilizado um PDF contendo receitas de bolos caseiros, s
 Se ainda não tiver o Conda, você pode instalar o [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (mais leve) ou o [Anaconda](https://www.anaconda.com/download).  
 
 Exemplo de instalação do **Miniconda** no Linux/macOS:  
-```bash
 # Baixe o instalador (Linux)
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
