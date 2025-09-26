@@ -118,6 +118,7 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 ```
 🔎 Recuperação e resposta
+![Interface do Projeto](https://raw.githubusercontent.com/ligia-ufpe/rag/main/retrieve.png)
 ```
 def responder_pergunta(pergunta: str) -> str:
     docs = retriever.invoke(pergunta)
