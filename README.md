@@ -105,6 +105,7 @@ streamlit run app.py
 🧠 Principais Componentes
 
 🔑 Carregamento e indexação do PDF
+![Interface do Projeto](https://raw.githubusercontent.com/ligia-ufpe/rag/main/split.png)
 ```
 loader = PyMuPDFLoader("receitas_bolos.pdf")
 docs = loader.load()
