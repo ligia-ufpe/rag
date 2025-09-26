@@ -1,0 +1,11 @@
+streamlit
+pyarrow==15.0.2
+numpy==1.26.4
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+faiss-cpu
+python-dotenv
+pymupdf
+sentence-transformers
